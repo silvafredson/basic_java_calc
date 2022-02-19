@@ -1,9 +1,9 @@
 public class Number {
 
-    private int valor; // 1 - esse atributo "valor" 
+    private int valor;  
 
-    public Number () { // 3 - parâmetro valor
-        this.valor=0;  // 2 - recebe o valor do parâmetro "3 - valor"
+    public Number () { 
+        this.valor=0;  
     }
 
     public void setValor(int valor) {

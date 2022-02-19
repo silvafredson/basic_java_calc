@@ -28,7 +28,7 @@ public class Calc {
 
             System.out.printf("%n%n%n");
 
-            // "n" finaliza o programa
+            // "n" Ends the program / finaliza o programa
         }
     }
 }
